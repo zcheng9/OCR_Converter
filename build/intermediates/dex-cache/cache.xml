@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\AndroidStudioProjects\OCR_Converter_Demo\app\libs\library-1.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4075e2f465ca76b2fda728bac647eb18eca5500b">
+        <dex dex="D:\AndroidStudioProjects\OCR_Converter_Demo\app\build\intermediates\pre-dexed\debug\library-1.2.1-7d41b6cca3faf628ea1d82f751213a33be5745ea.jar" />
+    </item>
+
+</items>
